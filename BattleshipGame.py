@@ -1,8 +1,6 @@
 ######################### 
-# Author: Everett Rafuse
-# Student ID: 0314482
-# email address: 0314482r@acadiau.ca
-# Date: YYYY-MM-DD
+# Author: HornStrikeLabs
+# Date: 2026-10-27
 #########################
 import pygame
 import sys
